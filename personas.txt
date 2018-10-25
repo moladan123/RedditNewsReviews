@@ -1,0 +1,15 @@
+Elly (Typical User):
+    Caucasian, female, currently completing a degree in biology.
+    Currently is a student at the university of Toronto and has
+    a lot of studying for her midterms coming soon. She knows how
+    to use technology, but wants it to work in a way that saves her
+    precious time. She wants to use this system to figure which Highway
+    would be the best one to go on to minimize the amount of time commuting
+
+Bob (Application Developper):
+    Bob is 25 years old and just recently began on his career as a
+    software developper. He isn't very good however, and prefers it
+    when other people's api work without too much research on his end
+    he relies a lot on documentation and other people's code
+    so sometimes he messes up and ends up DOSing some of the api's
+    that he works with.
