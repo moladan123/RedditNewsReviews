@@ -1,0 +1,7 @@
+As Elly (User), I want to have fields to input the highway name, direction, and exit number to determine how busy the highway is
+As Elly (User), I want an indicator to show me visually how busy the highway is
+
+As Elly (User), I want to input a location and have the app find the closest highway to that location I input in case I do not know where the closest highway is
+As Elly (User), I want the app to find my location using my phone's GPS in case I do not know where I am at the moment
+As Bob (Dev), I want to be able to register an account in order to be able to make API calls to the server
+As Bob (Dev), I want to be able to make a limited number of API calls that check traffic information in a certain highway so that my application use that data to do something else.
